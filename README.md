@@ -1,6 +1,5 @@
 # Tawab Lukumuah Baah
 
-![Profile Banner](https://via.placeholder.com/800x200?text=Tawab+Lukumuah+Baah)
 
 ---
 
@@ -16,7 +15,7 @@ const motiveflash = {
     repositories: 22,
     projects: ["orbitahub", "Alx_DjangoLearnLab", "full_stuck_ecomerse"],
     socials: {
-        linkedin: "[LinkedIn](https://www.linkedin.com/in/tawab-lukumuah-baah/)",
+        linkedin: "https://www.linkedin.com/in/tawab-lukumuah-baah/",
         email: "tawabbaah35@gmail.com"
     }
 };
