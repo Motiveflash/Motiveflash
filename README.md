@@ -1,16 +1,60 @@
-## Hi there 👋
+# Tawab Lukumuah Baah - GitHub Profile
 
-<!--
-**Motiveflash/Motiveflash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://via.placeholder.com/800x200?text=Tawab+Lukumuah+Baah)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me:
+```javascript
+const motiveflash = {
+    name: "Tawab Lukumuah Baah",
+    pronouns: "He" | "Him",
+    code: ["Python", "JavaScript", "CSS", "HTML", "SQL"],
+    techInterests: ["Backend Development", "Ecommerce", "Travel Applications"],
+    currentFocus: "Backend Programming Course at ALX",
+    commits: 285,
+    repositories: 22,
+    projects: ["orbitahub", "Alx_DjangoLearnLab", "full_stuck_ecomerse"],
+    socials: {
+        website: "https://www.example.com",
+        twitter: "https://twitter.com/example",
+        linkedin: "https://www.linkedin.com/in/example",
+        email: "example@example.com"
+    }
+};
+```
+
+---
+
+### GitHub Stats:
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Motiveflash)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Motiveflash)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Motiveflash)](https://github.com/Motiveflash)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Motiveflash)](https://git.io/streak-stats)
+
+---
+
+### Skills & Technologies:
+- **Languages:** Python, JavaScript, CSS, HTML, SQL
+- **Frameworks:** Django, Flask
+- **Tools:** Git, VS Code, Postman
+- **Databases:** PostgreSQL, SQLite
+- **Other:** RESTful APIs, Docker
+
+---
+
+### Projects:
+- **orbitahub:** A project showcasing RESTful API development skills.
+- **Alx_DjangoLearnLab:** Implementation of Django concepts and functionalities.
+- **full_stuck_ecomerse:** An ecommerce project exploring backend development.
+
+---
+
+### Contact Me:
+- **LinkedIn:** [Connect](https://www.linkedin.com/in/example)
+- **Email:** example@example.com
+
+---
+
+### Summary:
+Tawab Lukumuah Baah, a dedicated web developer with a strong focus on backend development, is actively learning and contributing to coding projects. With a diverse skill set in languages such as Python, JavaScript, and SQL, Tawab showcases a commitment to continuous improvement and exploration in the tech industry. Despite a growing profile with notable projects, Tawab remains passionate about ecommerce, backend development, and travel applications, reflecting a broad interest and potential for further growth in the tech community.
