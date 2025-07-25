@@ -4,7 +4,7 @@
 ---
 
 ### About Me:
-```javascript
+```python
 const motiveflash = {
     name: "Tawab Lukumuah Baah",
     pronouns: "He" | "Him",
