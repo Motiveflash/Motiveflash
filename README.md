@@ -9,11 +9,11 @@ const motiveflash = {
     name: "Tawab Lukumuah Baah",
     pronouns: "He" | "Him",
     code: ["Python", "JavaScript", "CSS", "HTML", "SQL"],
-    techInterests: ["Backend Development", "Ecommerce", "Travel Applications"],
+    techInterests: ["Software Development", "AI", "Data Science"],
     currentFocus: "Backend Programming Course at ALX",
     commits: 285,
     repositories: 22,
-    projects: ["orbitahub", "Alx_DjangoLearnLab", "full_stuck_ecomerse"],
+    projects: ["orbitahub", "Social_media_api", "full_stuck_ecomerse"],
     socials: {
         linkedin: "https://www.linkedin.com/in/tawab-lukumuah-baah/",
         email: "tawabbaah35@gmail.com"
@@ -33,15 +33,15 @@ const motiveflash = {
 
 ### Skills & Technologies:
 - **Languages:** Python, JavaScript, CSS, HTML, SQL
-- **Frameworks:** Django, Flask
+- **Frameworks:** Django
 - **Tools:** Git, VS Code, Postman
-- **Databases:** PostgreSQL, SQLite
+- **Databases:** PostgreSQL, SQLite, MySQL
 - **Other:** RESTful APIs, Docker
 
 ---
 
 ### Projects:
-- **orbitahub:** A project showcasing RESTful API development skills.
+- **Social Media API:** A project showcasing RESTful API development skills.
 - **Alx_DjangoLearnLab:** Implementation of Django concepts and functionalities.
 - **full_stuck_ecomerse:** An ecommerce project exploring backend development.
 
